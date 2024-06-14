@@ -1,3 +1,5 @@
+Download the Respitory file and execute the program
+
 1. Fuzzy c means clustering
 2. Fuzzy c means clustering with KL divergence
 3. Picture fuzzy c means clustering
